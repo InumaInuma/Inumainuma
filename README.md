@@ -52,7 +52,7 @@
 
 <p align="center">
 
-<a href="https://shivammalpani.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/shivammalpani.netlify.app-black?style=flat-square&logo=google-chrome"></a>
+
 
 <a href="https://www.linkedin.com/in/inuma/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Anthony%20Flores-blue?style=flat-square&logo=linkedin"></a>
 
