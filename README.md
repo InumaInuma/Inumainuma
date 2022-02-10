@@ -54,7 +54,7 @@
 
 <a href="https://shivammalpani.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/shivammalpani.netlify.app-black?style=flat-square&logo=google-chrome"></a>
 
-<a href="https://www.linkedin.com/in/inuma/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/inuma/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Anthony%20Flores-blue?style=flat-square&logo=linkedin"></a>
 
 
 <a href="mailto:Anthony_Inuma@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shivammalpani111@gmail.com-blue?style=flat-square&logo=gmail"></a>
