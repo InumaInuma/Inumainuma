@@ -41,7 +41,7 @@
 - 🔧 &nbsp; AWS | Docker🐳 | Firebase 
 
 
-<br>
+<hr>
 
 
 <h3> 🤝🏻 Contácteme </h3>
