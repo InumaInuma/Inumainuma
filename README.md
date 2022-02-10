@@ -2,17 +2,17 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<h3> 👨🏻•💻 About Me </h3>
+<h3> 👨🏻•💻 Acerca de mi </h3>
 
 
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos.
 
-- 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara and coding stuffs.
+- 🎓 &nbsp; Estudiando desarrollo de software Vadodara y cosas de codificación.
 
-- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
+- 🌱 &nbsp; Aprendiendo sobre Tecnología en la Nube, Diseño de Sistemas..
 
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
+- ✍️ &nbsp; Perseguir el desarrollo movil como pasatiempos/actividades secundarias.
 
 
 
@@ -20,9 +20,9 @@
 
 
 
-- 💻 &nbsp; Python | Java | C++ | C | MySQL
+- 💻 &nbsp;  Dart | C# | Angular | Net Core MVC asp.net | NodeJS | MySQL | SQL 
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Flutter | Angular
 
 <!--
 
