@@ -57,7 +57,7 @@
 <a href="https://www.linkedin.com/in/inuma/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Anthony%20Flores-blue?style=flat-square&logo=linkedin"></a>
 
 
-<a href="mailto:Anthony_Inuma@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shivammalpani111@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:Anthony_Inuma@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Anthony_Inuma@hotmail.com-blue?style=flat-square&logo=gmail"></a>
 
 </p>
 
