@@ -40,15 +40,7 @@
 
 - 🔧 &nbsp; AWS | Docker🐳 | Firebase 
 
-<hr>
 
-
-
-
-
-
-
-<hr>
 
 
 
