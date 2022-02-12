@@ -8,7 +8,7 @@
 
 - 🤔 &nbsp; Explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos.
 
-- 🎓 &nbsp; Estudiando desarrollo de software Vadodara y cosas de codificación.
+- 🎓 &nbsp; Estudiando desarrollo de software mas de 2 años .
 
 - 🌱 &nbsp; Aprendiendo sobre Tecnología en la Nube, Diseño de Sistemas..
 
