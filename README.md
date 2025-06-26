@@ -8,25 +8,25 @@
 
 - 🤔 &nbsp; Explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos.
 
-- 🎓 &nbsp; Estudiando desarrollo de software mas de 2 años .
+- 🎓 &nbsp; Estudiando desarrollo de software mas de 3 años .
 
 - 🌱 &nbsp; Aprendiendo sobre Tecnología en la Nube, Diseño de Sistemas..
 
 - ✍️ &nbsp; Perseguir el desarrollo movil como pasatiempos/actividades secundarias.
 
-
+- ✍️ &nbsp; Trabajando como Analista programador mas de 2 años.
 
 <h3>🛠 Tech Stack</h3>
 
 
 
-- 💻 &nbsp;  Dart | C# | Angular | Net Core MVC asp.net | NodeJS | MySQL | SQL 
+- 💻 &nbsp;  Dart | C# | Angular | Net Core MVC asp.net Arquitectura de 4 capas / clean architecture | Visual Basic | NodeJS | MySQL | SQL 
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Flutter | Angular
 
 <!--
 
-- 🛢 &nbsp; MySQL | MongoDB
+- 🛢 &nbsp; MySQL | MongoDB | SQL -- NIVEL INTERMEDIO 
 
 - 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
 
